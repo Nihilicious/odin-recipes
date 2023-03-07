@@ -1,0 +1,42 @@
+* {
+    background-color:beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h3 {
+    padding: 20px;
+}
+
+p {
+    padding-left: 10px;
+}
+
+ul, ol {
+    border-radius: 25px;
+    border: 2px solid wheat;
+}
+
+ul{
+    list-style-type:circle;
+}
+
+li {
+    margin: 5px;
+}
+
+a {
+    background-color: azure;
+    padding: 4px;
+    border-radius: 25px;
+    border: 2px solid black;
+}
