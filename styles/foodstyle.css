@@ -35,8 +35,13 @@ li {
 }
 
 a {
+    display: inline-block;
     background-color: azure;
-    padding: 4px;
+    padding: 10px;
     border-radius: 25px;
     border: 2px solid black;
+}
+
+a:hover {
+    background-color: turquoise;
 }
